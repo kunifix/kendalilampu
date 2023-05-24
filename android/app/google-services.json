@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755303349467",
+    "firebase_url": "https://kendalilampu-234dc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kendalilampu-234dc",
+    "storage_bucket": "kendalilampu-234dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755303349467:android:c7713208a6bef1762960fe",
+        "android_client_info": {
+          "package_name": "com.example.kendalilampu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755303349467-ek4q7fqi94i2lblck7krgo3itj3mm627.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfeAm0LnkBZ934ldZdpBi_QeA0LmvHTmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755303349467-ek4q7fqi94i2lblck7krgo3itj3mm627.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
